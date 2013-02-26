@@ -1,0 +1,13 @@
+git clone https://github.com/githubtraining/hellogitworld.git hgw1
+
+
+
+git clone https://github.com/githubtraining/hellogitworld.git hgw1
+
+
+I did "git add *" (no quotes) and got:
+warning: LF will be replaced by CRLF in h.
+
+Now status shows new file h
+
+What is this?
